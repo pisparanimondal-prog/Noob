@@ -1,0 +1,47 @@
+{
+  "telegram": {
+    "bot_token": "8327755166:AAFf7Y574osU95Ff6Sjbu2XyzLvCIRlTsMQ",
+    "chat_ids": [
+      "-1003008136902"
+    ]
+  },
+  "apis": [
+    {
+      "id": "api_0c89bb65",
+      "name": "Panel 51.68.180.239",
+      "enabled": true,
+      "url": "http://51.68.180.239/ints/agent/res/data_smscdr.php",
+      "sesskey": "Q05RR0FRUkJBVQ==",
+      "cookies": {
+        "PHPSESSID": "ad5a01599a363488dbff84db7ce90545"
+      },
+      "username": "AlbertMax",
+      "password": "Albert000",
+      "base_url": "http://51.68.180.239/ints",
+      "headers": {
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Connection": "keep-alive",
+        "Referer": "http://51.68.180.239/ints/agent/SMSCDRReports",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+        "X-Requested-With": "XMLHttpRequest"
+      }
+    }
+  ],
+  "settings": {
+    "polling_interval": 5,
+    "admin_ids": [
+      1211362365
+    ]
+  },
+  "button_styles": {
+    "copy": "success",
+    "bot_link": "danger",
+    "channel": "primary",
+    "delete": "danger",
+    "disable": "danger",
+    "enable": "success",
+    "add": "success",
+    "cancel": ""
+  }
+}
